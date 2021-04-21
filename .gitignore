@@ -23,5 +23,6 @@ yarn-debug.log*
 yarn-error.log*
 
 #api
+env
 venv
 __pycache__
